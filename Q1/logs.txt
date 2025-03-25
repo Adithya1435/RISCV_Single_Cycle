@@ -1,0 +1,50 @@
+Write reg number:  8
+Data written is :        163
+Write reg number:  2
+Data written is :        124
+Write reg number:  8
+Data written is :          0
+Write reg number:  5
+Data written is :          0
+Write reg number:  6
+Data written is :          1
+Write reg number:  5
+Data written is :          1
+Write reg number:  6
+Data written is :          1
+Write reg number:  5
+Data written is :          2
+Write reg number:  6
+Data written is :          1
+Write reg number:  5
+Data written is :          3
+Write reg number:  6
+Data written is :          1
+Write reg number:  5
+Data written is :          4
+Write reg number:  6
+Data written is :          1
+Write reg number:  5
+Data written is :          5
+Write reg number:  6
+Data written is :          1
+Write reg number:  5
+Data written is :          6
+Write reg number:  6
+Data written is :          1
+Write reg number:  5
+Data written is :          7
+Write reg number:  6
+Data written is :          0
+Write reg number: 18
+Data written is :          4
+Write reg number:  6
+Data written is :         10
+Write reg number:  8
+Data written is :        163
+Write reg number:  2
+Data written is :        128
+Write reg number: 20
+Data written is :          2
+Write reg number:  8
+Data written is :        161
